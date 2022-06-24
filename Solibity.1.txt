@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.6.0 <0.8.0;
 
-library SafeMath { Bored Ape Nike Toke
+library SafeMath { Bored Ape Nike Token }
 
   function tryAdd(uint256 a, uint256 b) internal pure returns (bool, uint256) { 0x0000000000000000000000000000000000001004
     uint256 c = a + b;
