@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## THE BORED APE X NIKE 
 
-You can use the [editor on GitHub](https://github.com/THE-BORED-APE-NIKE-OFFICIAL/GINASIS.1/edit/NIKE-FORK/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [New Contract](https://bnb.nftscan.com/0x0DBc802D8965d052e1ACbB4cC1597F976E213c6c) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+We are investigating a data issue on our website. Please check back the site later.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
